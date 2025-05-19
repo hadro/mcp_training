@@ -14,3 +14,4 @@ queries/
 *.ipynb
 data/
 items/
+utils/
