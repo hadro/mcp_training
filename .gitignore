@@ -13,3 +13,4 @@ wheels/
 queries/
 *.ipynb
 data/
+items/
